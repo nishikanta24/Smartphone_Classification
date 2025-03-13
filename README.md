@@ -1,6 +1,6 @@
 # 📱 Counterfeit Smartphone Detection Using Deep Learning
 
-![Streamlit Deployment](https://github.com/nishikanta24/CrediT_Card_Transaction_And_Customer_Report/blob/main/pics/Screenshot%202024-11-09%20233153.png)
+![Streamlit Deployment](https://github.com/nishikanta24/Smartphone_Classification/blob/main/pic/prediction.jpg)
 
 ## 🔍 Data Preparation Pipeline
 
